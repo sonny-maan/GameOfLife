@@ -19,6 +19,6 @@ The universe of the GameOfLife_ is an infinite, two-dimensional  grid of square 
 4.  Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
 ## Usage
-Visit my GameOfLife page [here](https://sonny-maan.github.io/GameOfLife/)
+Visit my Game Of Life page [here](https://sonny-maan.github.io/GameOfLife/)
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
